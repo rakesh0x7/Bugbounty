@@ -130,22 +130,39 @@ Testing Labs:
 Tools:
 
 Burpsuite
+
 nmap
+
 Netcat
-OwaspZap
+
+OwaspZap 
+
 Kali Linux
+
 Sqlmap
+
 Bug Bounty Platforms-:
+
 Hackerone
+
 Bugcrowd
+
 Synack
+
 HackenProof
+
 Intigriti
+
 bountyfactory
+
 Bugbounty Japan
+
 Antihack
+
 Invite based Platforms:
+
 Synack
+
 Cobalt
 
 Blogs you should follow-:
@@ -165,10 +182,15 @@ Blogs you should follow-:
 Sample format of report:
 
 Vulnerability Name
+
 Vulnerability Description
+
 Vulnerable URL
+
 Payload
+
 Steps to Reproduce
+
 Impact
 
 Vulnerabilities Priorities:
