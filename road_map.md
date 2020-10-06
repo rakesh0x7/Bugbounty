@@ -1,6 +1,8 @@
 # Road-map-to-bugbounty
 How to Get Started into Bug Bounty
 
+https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
+
 What is Bug Bounty?
 
 Bug Bounty is a deal offered by many websites and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities.
