@@ -207,30 +207,3 @@ menu
 fi
 
 }
-
-banner
-menu
-
-
-
-### Features:
-
-#### Can be used in windows, linux, macos and also on termux.
-#### Can be used to track country, region, ISP, latitude and longitude of the IP
-
-
-### Usage:
-```
-git clone https://github.com/JasonJerry/IPtracker
-cd IPtracker
-bash iptracker.sh
-```
-
-<br>
-<p align="center">
-<img width="50%" src="https://i.ibb.co/zhMBD4x/2.png">
-</p>
-
-## Legal disclaimer:
-
-Usage of IP-tracker for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. 
