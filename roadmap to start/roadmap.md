@@ -1,14 +1,14 @@
 ## Road-map-to-bugbounty
-How to Get Started into Bug Bounty
+### How to Get Started into Bug Bounty
 
 https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
 
-What is Bug Bounty?
+### What is Bug Bounty?
 
 Bug Bounty is a deal offered by many websites and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to exploits and vulnerabilities.
 
-Basic Technical things to get started-:
-
+### Basic Technical things to get started-:
+```
 There are many things you have to learn but I cannot list of all of them here. I’m listing a few important topics and you should learn more by yourself.
 
 HTTP — TCP/IP Model
@@ -20,8 +20,9 @@ Web Application technologies
 Networking basics
 
 Learning Basics of HTML, PHP, Javascript
+```
 
-Choosing your initial Path-:
+### Choosing your initial Path-:
 
 Choosing a path in the bug bounty field is very important, it totally depends upon the person’s interest but many of the guys choose the web application path first because according to me it’s the easiest one.
 
@@ -29,8 +30,8 @@ Web application Security Testing
 
 Mobile Application Security Testing
 
-Books-:
-
+### Books-:
+```
 1–Modern Web Penetration Testing
 
 2–The Hacker Playbook Practical Guide
@@ -50,8 +51,8 @@ Books-:
 9-Mobile Application hacker’s handbook
 
 10-Breaking into Information Security: Learning the Ropes 101
-
-YouTube Channels-:
+```
+### YouTube Channels-:
 
 Live Overflow — https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 
@@ -77,8 +78,8 @@ Security Conference talks you should watch-:
 
 2-DEF CON 23 — Jason Haddix — How to Shot Web: Web and mobile hacking in 2015-https://youtu.be/-FAjxUOKbdI
 
-Follow these guys on Twitter-:
-
+### Follow these guys on Twitter-:
+```
 1-Frans Rosén
 
 2-Mathias Karlsson
@@ -108,8 +109,8 @@ Follow these guys on Twitter-:
 14-Th3G3nt3lman
 
 15-Prateek Tiwari
-
-Resources to Learn:
+```
+### Resources to Learn:
 
 Testing Labs:
 
@@ -129,8 +130,8 @@ Testing Labs:
 
 8-https://owasp.org/www-project-juice-shop/
 
-Tools:
-
+### Tools:
+```
 Burpsuite
 
 nmap
@@ -142,9 +143,9 @@ OwaspZap
 Kali Linux
 
 Sqlmap
-
-Bug Bounty Platforms-:
-
+```
+### Bug Bounty Platforms-:
+```
 Hackerone
 
 Bugcrowd
@@ -166,8 +167,8 @@ Invite based Platforms:
 Synack
 
 Cobalt
-
-Blogs you should follow-:
+```
+### Blogs you should follow-:
 
 1-https://labs.detectify.com/
 
@@ -181,8 +182,8 @@ Blogs you should follow-:
 
 6-https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65
 
-Sample format of report:
-
+### Sample format of report:
+```
 Vulnerability Name
 
 Vulnerability Description
@@ -194,8 +195,8 @@ Payload
 Steps to Reproduce
 
 Impact
-
-Vulnerabilities Priorities:
+```
+### Vulnerabilities Priorities:
 
 P1 -Critical: Vulnerabilities that cause a privilege escalation from unprivileged to admin or allow for remote code execution, financial theft, etc.
 
@@ -210,4 +211,3 @@ P5 -Informational: Non-exploitable vulnerabilities in functionality. Vulnerabili
 Thanks everyone for reading
 
 Happy Hunting
--RAKESH KUMAR
