@@ -1,5 +1,7 @@
 #                                           Bugbounty
-![bugbounty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeTVpSMvb5-6CC6zBqSvTY1j6NcvpB8gUgqCN0RcQDaMGviwiTQqxDYEqMRzwx-TB4bw&usqp=CAU)
+<!--![bugbounty](https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/November/bugbounty.png)-->
+
+<a href="https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/November/bugbounty.png"></a>
 
 ## This repo contains information about bug bounty.
 
