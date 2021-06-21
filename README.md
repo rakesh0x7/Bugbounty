@@ -6,8 +6,8 @@
 
 - Many software vendors and websites run bug bounty programs, paying out cash rewards to software security researchers and white hat hackers who report software vulnerabilities that have the potential to be exploited. Bug reports must document enough information for for the organization offering the bounty to be able to reproduce the vulnerability. Typically, payment amounts are commensurate with the size of the organization, the difficulty in hacking the system and how much impact on users a bug might have.
 
-# [click here to start 🤔](https://github.com/deephunt3r/bugbounty/tree/master/roadmap%20to%20start)
+###  [click here to start 🤔](https://github.com/deephunt3r/bugbounty/tree/master/roadmap%20to%20start)
 
-# [tools to learn ](https://github.com/deephunt3r/bugbounty/tree/master/tools) 
+### [tools to learn ](https://github.com/deephunt3r/bugbounty/tree/master/tools) 
 
-# [ good writeups](https://github.com/deephunt3r/bugbounty/tree/master/writeups)
+### [ good writeups](https://github.com/deephunt3r/bugbounty/tree/master/writeups)
