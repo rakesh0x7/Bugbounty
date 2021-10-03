@@ -62,3 +62,5 @@ inurl:/responsible-disclosure/ university
 buy bitcoins "bug bounty"
 inurl:/security ext:txt "contact"
 "powered by synack"
+inurl:/en-us/legal-statement/ intext:Security
+inurl:/contact intext:Type AND Bug
