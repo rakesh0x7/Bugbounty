@@ -7,3 +7,5 @@ https://medium.com/@aishwaryakendle/how-we-hijacked-26-subdomains-9c05c94c7049 s
 https://t.co/L0oyr60jKe
 
 https://medium.com/@tameemkhalid786/host-header-injection-on-password-reset-functionality-an-easy-p2-5c6263c2e3d4 Host Header Injection
+
+https://medium.com/@shellyshubh/how-i-made-200-in-5-minutes-by-email-injection-first-bug-bounty-b194ea6568b2 Email Injection 
