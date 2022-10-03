@@ -1,5 +1,5 @@
 #                                           Bugbounty
-<img src="https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/November/bugbounty.png" width=1200 height=200 class="center">
+<img src="https://ncybersecurity.com/wp-content/uploads/2020/06/bug-bounty-course.png" width=1000 height=350 class="center">
 
 # What is bugbounty
 - A bug bounty program, also called a vulnerability rewards program (VRP), is a crowdsourcing initiative that rewards individuals for discovering and reporting software bugs. Bug bounty programs are often initiated to supplement internal code audits and penetration tests as part of an organization's vulnerability management strategy.
