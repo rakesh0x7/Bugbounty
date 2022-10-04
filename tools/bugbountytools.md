@@ -1,8 +1,14 @@
-dnscan https://github.com/rbsec/dnscan
+dProg https://github.com/xcapri/dProgBb </br>
+dProg is tool for Bug bounty program detection by similar keyword on bug bounty program page
 
-Knockpy https://github.com/guelfoweb/knock
+dnscan https://github.com/rbsec/dnscan </br>
+dnscan is a python wordlist-based DNS subdomain scanner.
 
-Sublist3r https://github.com/aboul3la/Sublist3r
+Knockpy https://github.com/guelfoweb/knock </br>
+Knockpy is a python3 tool designed to quickly enumerate subdomains on a target domain through dictionary attack.
+
+Sublist3r https://github.com/aboul3la/Sublist3r </br>
+Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
 
 massdns https://github.com/blechschmidt/massdns
 
