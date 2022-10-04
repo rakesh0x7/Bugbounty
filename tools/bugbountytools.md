@@ -95,3 +95,5 @@ CMSMap https://github.com/Dionach/CMSmap
 Amass https://github.com/OWASP/Amass
 
 Iptracker https://github.com/JasonJerry/IPtracker
+
+RustScan https://github.com/RustScan/RustScan
