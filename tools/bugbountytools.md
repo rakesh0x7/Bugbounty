@@ -1,11 +1,12 @@
 |Tools name    | Description  | Link  |
 |---|---|---|
+|---|---|---|
 | dProg  | dProg is tool for Bug bounty program detection by similar keyword on bug bounty program page.  | https://github.com/xcapri/dProgBb  |
 |  Dnscan | dnscan is a python wordlist-based DNS subdomain scanner.<br>The script will first try to perform a zone transfer using each of the target domain's nameservers.<br> If this fails, it will lookup TXT and MX records for the domain, and then perform a recursive subdomain scan using the supplied wordlist. | https://github.com/rbsec/dnscan  |
 |  Knock  | Knockpy is a python3 tool designed to quickly enumerate subdomains on a target domain through dictionary attack.  | https://github.com/guelfoweb/knock  |
 | Sublist3r |Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS. | https://github.com/aboul3la/Sublist3r |
 | MassDNS |MassDNS is a simple high-performance DNS stub resolver targeting those who seek to resolve a massive amount of domain names in the order of millions or even billions. Without special configuration, MassDNS is capable of resolving over 350,000 names per second using publicly available resolvers.|https://github.com/blechschmidt/massdns|
-|nmap| | https://nmap.org|
+|nmap| Nmap is a network created by Gordon Lyon. Nmap is used to find hosts and services on a computer network by sending packets and analyzing their responses. Nmap provides a number of features for computer networking, including host discovery, services, and operating system detection. | https://nmap.org|
 |masscan|  | https://github.com/robertdavidgraham/masscan|
 |EyeWitness| |https://github.com/ChrisTruncer/EyeWitness |
 | DirBuster| | https://sourceforge.net/projects/dirbuster/ |
