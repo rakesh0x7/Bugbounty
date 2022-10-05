@@ -8,10 +8,8 @@
 | MassDNS |MassDNS is a simple high-performance DNS stub resolver targeting those who seek to resolve a massive amount of domain names in the order of millions or even billions. Without special configuration, MassDNS is capable of resolving over 350,000 names per second using publicly available resolvers.|https://github.com/blechschmidt/massdns|
 |nmap| Nmap is a network created by Gordon Lyon. Nmap is used to find hosts and services on a computer network by sending packets and analyzing their responses. Nmap provides a number of features for computer networking, including host discovery, services, and operating system detection. | https://nmap.org|
 |masscan|  | https://github.com/robertdavidgraham/masscan|
-|EyeWitness| EyeWitness is designed to take screenshots of websites provide some server header info, and identify default credentials if known.
-
-EyeWitness is designed to run on Kali Linux. It will auto detect the file you give it with the -f flag as either being a text file with URLs on each new line, nmap xml output, or nessus xml output. The --timeout flag is completely optional, and lets you provide the max time to wait when trying to render and screenshot a web page. |https://github.com/ChrisTruncer/EyeWitness |
-| DirBuster| DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers. | https://sourceforge.net/projects/dirbuster/ |
+|EyeWitness| EyeWitness is designed to take screenshots of websites provide some server header info, and identify default credentials if known.EyeWitness is designed to run on Kali Linux. It will auto detect the file you give it with the -f flag as either being a text file with URLs on each new line, nmap xml output, or nessus xml output. The --timeout flag is completely optional, and lets you provide the max time to wait when trying to render and screenshot a web page.|https://github.com/ChrisTruncer/EyeWitness |
+| DirBuster| DirBuster is a multi threaded java application designed to brute force directories and files names on web/application servers.|https://sourceforge.net/projects/dirbuster/ |
 |dirsearch| |https://github.com/maurosoria/dirsearch|
 |Gitrob| Gitrob is a tool to help find potentially sensitive files pushed to public repositories on Github. Gitrob will clone repositories belonging to a user or organization down to a configurable depth and iterate through the commit history and flag files that match signatures for potentially sensitive files. The findings will be presented through a web interface for easy browsing and analysis. |https://github.com/michenriksen/gitrob| 
 |git-secrets| |https://github.com/awslabs/git-secrets|
@@ -21,7 +19,7 @@ EyeWitness is designed to run on Kali Linux. It will auto detect the file you gi
 |Wayback Machine| |https://web.archive.org|
 |waybackurls| |https://gist.github.com/mhmdiaa/adf6bff70142e5091792841d4b372050| 
 |Sn1per| |https://github.com/1N3/Sn1per/|
-|XRay|XRay is a tool for network OSINT gathering, its goal is to make some of the initial tasks of information gathering and network mapping automatic. |https://github.com/evilsocket/xray|
+|XRay| XRay is a tool for network OSINT gathering, its goal is to make some of the initial tasks of information gathering and network mapping automatic. |https://github.com/evilsocket/xray|
 |wfuzz| |https://github.com/xmendez/wfuzz/|
 |patator| |https://github.com/lanjelot/patator|
 |datasploit| |https://github.com/DataSploit/datasploit|
