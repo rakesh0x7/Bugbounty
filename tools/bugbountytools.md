@@ -1,5 +1,6 @@
 |Tools name    | Description  | Link  |
 |---|---|---|
+| wappalyzergo | A high performance port of the Wappalyzer Technology Detection Library to Go.| https://github.com/projectdiscovery/wappalyzergo|
 | dProg  | dProg is tool for Bug bounty program detection by similar keyword on bug bounty program page.  | https://github.com/xcapri/dProgBb  |
 |  Dnscan | dnscan is a python wordlist-based DNS subdomain scanner.<br>The script will first try to perform a zone transfer using each of the target domain's nameservers.<br> If this fails, it will lookup TXT and MX records for the domain, and then perform a recursive subdomain scan using the supplied wordlist. | https://github.com/rbsec/dnscan  |
 |  Knock  | Knockpy is a python3 tool designed to quickly enumerate subdomains on a target domain through dictionary attack.  | https://github.com/guelfoweb/knock  |
