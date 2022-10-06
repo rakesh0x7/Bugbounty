@@ -1,0 +1,11 @@
+#command
+cat /path/list | xargs -I var -- sh -c "echo -n 'var : '; curl -so /dev/null -w '%{http_code}\n' var"
+
+#/path/list = path domain list
+#example list
+google.com
+facebook.com
+
+#output
+google.com : 301
+facebook.com : 301
