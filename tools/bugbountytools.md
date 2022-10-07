@@ -5,9 +5,9 @@
 |  Knock  | Knockpy is a python3 tool designed to quickly enumerate subdomains on a target domain through dictionary attack.  | https://github.com/guelfoweb/knock  |
 | Sublist3r |Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS. | https://github.com/aboul3la/Sublist3r |
 | MassDNS |MassDNS is a simple high-performance DNS stub resolver targeting those who seek to resolve a massive amount of domain names in the order of millions or even billions. Without special configuration, MassDNS is capable of resolving over 350,000 names per second using publicly available resolvers.|https://github.com/blechschmidt/massdns|
-|nmap| | https://nmap.org|
+|nmap| Nmap is a network scanner created by Gordon Lyon. Nmap is used to find hosts and services on a computer network by sending packets and analyzing their responses. Nmap provides a number of features for investigating computer networks, including host discovery, services, and operating system detection  | https://nmap.org|
 |masscan|  | https://github.com/robertdavidgraham/masscan|
-|EyeWitness| |https://github.com/ChrisTruncer/EyeWitness |
+|EyeWitness|  |https://github.com/ChrisTruncer/EyeWitness |
 | DirBuster| | https://sourceforge.net/projects/dirbuster/ |
 |dirsearch| |https://github.com/maurosoria/dirsearch|
 |Gitrob| |https://github.com/michenriksen/gitrob| 
