@@ -13,3 +13,8 @@ Here we collect some unique cases in Bug Hunting that have been in the form of a
 | Account Take Over Vulnerability in Google acquisition [Famebit]| HassanKhanYusufzai | https://infosecwriteups.com/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9 |
 | OAuth Misconfiguration Leads To Pre-Account Takeover|Aswin K V| https://infosecwriteups.com/oauth-misconfiguration-leads-to-pre-account-takeover-8f94c1ef50be|
 | Zero Click account Takeover | Zahir Tariq|https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73 |
+| Blind account takeover | [Bartłomiej Bergier](https://twitter.com/_bergee_) | https://bergee.it/blog/blind-account-takeover/ |
+| Turning cookie based XSS into account takeover | [Bartłomiej Bergier](https://twitter.com/_bergee_) | https://bergee.it/blog/turning-cookie-based-xss-into-account-takeover/ |
+| CSRF leads to Account Takeover - Samsung | [R ando](https://twitter.com/Rando02355205) | https://bloggerrando.blogspot.com/2022/08/17-1.html |
+| Amazon Cognito misconfiguration lead to account takeover | [Hossam Ahmed](https://twitter.com/iknowhatodo0x01) | https://medium.com/@iknowhatodo/amazon-cognito-misconfiguration-lead-to-account-takeover-20694243ca40 |
+| 2FA Bypass via Google Identity & OAuth Login | [Sharat Kaikolamthuruthil](https://twitter.com/sharp488) | https://medium.com/@sharp488/2fa-bypass-via-google-identity-oauth-login-6c991ac837af |
