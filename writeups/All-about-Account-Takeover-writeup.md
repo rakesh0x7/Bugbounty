@@ -13,3 +13,4 @@ Here we collect some unique cases in Bug Hunting that have been in the form of a
 | Account Take Over Vulnerability in Google acquisition [Famebit]| HassanKhanYusufzai | https://infosecwriteups.com/account-take-over-vulnerability-in-google-acquisition-famebit-e93b1a0a7af9 |
 | OAuth Misconfiguration Leads To Pre-Account Takeover|Aswin K V| https://infosecwriteups.com/oauth-misconfiguration-leads-to-pre-account-takeover-8f94c1ef50be|
 | Zero Click account Takeover | Zahir Tariq|https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73 |
+| CSRF leads to account takeover in Yahoo! | Retr02332 |https://webs3c.com/t/csrf-leads-to-account-takeover-in-yahoo/93 |
