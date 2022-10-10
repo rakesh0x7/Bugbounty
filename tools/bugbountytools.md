@@ -51,3 +51,6 @@
 |Amass| |https://github.com/OWASP/Amass|
 |Iptracker| |https://github.com/JasonJerry/IPtracker|
 
+|Subzy| |https://github.com/LukaSikic/subzy.git|
+|Gobuster| |https://github.com/OJ/gobuster.git|
+
